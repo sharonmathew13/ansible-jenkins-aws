@@ -1,0 +1,2 @@
+[webservers]
+slave1 ansible_ssh_host=18.206.248.31
